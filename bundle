@@ -1,0 +1,8 @@
+Configuration file: /home/geordanny/geordanny-blog/_config.yml
+ Theme Config file: /home/geordanny/geordanny-blog/_config.yml
+            Source: /home/geordanny/geordanny-blog
+       Destination: /home/geordanny/geordanny-blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.545 seconds.
+ Auto-regeneration: enabled for '/home/geordanny/geordanny-blog'
