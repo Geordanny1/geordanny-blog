@@ -1,47 +1,14 @@
 <!-- markdownlint-disable-next-line -->
-<div align="center">
 
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+# install 
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+```
+git clone git@github.com:geordani1/geordanny-blog.git
+```
 
-  [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
-  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)][license]&nbsp;
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem]&nbsp;
-  [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]
 
-  [**Live Demo** →][demo]
+this is a fork of [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
-
-</div>
-
-## Features
-
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
-
-## Documentation
-
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
 
 ## Contributing
 
